@@ -8,6 +8,7 @@ public class ScenLoader : MonoBehaviour
     {
         MainMenuScene,
         PlayScene,
+        Credits,
 
     }
 
